@@ -48,7 +48,7 @@ function drawNetWorthChart() {
   const options = {
     title: 'Net Worth',
     hAxis: { title: 'Period' },
-    width: 700,
+    width: '100vw',
     height: 400,
     legend: 'none',
     crosshair: { trigger: 'focus' },
